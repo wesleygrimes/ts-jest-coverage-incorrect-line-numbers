@@ -69,3 +69,7 @@ Issue can be reproduced running `yarn test` or `npm run test`
   "typescript": "^3.5.3"
 }
 ```
+
+## Related GitHub Issues
+
+- https://github.com/kulshekhar/ts-jest/issues/917
